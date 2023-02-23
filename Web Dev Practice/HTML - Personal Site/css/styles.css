@@ -1,0 +1,29 @@
+/****************************Tag Selectors******************************/
+body {
+    background-color: #F3EFE0;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-color: #22A39F;
+    border-width: 8px;
+    height: 0px;
+    width: 10%;
+}
+h1 {
+    color: #434242;
+}
+
+h3 {
+    color: #434242;
+}
+
+/***************************Class Selectors*****************************/
+.profile_pic {
+    width: 160px;
+    height: 160px;
+}
+
+/****************************Heading Selectors*************************/
+
+/* Uses #name instead of .name or name like above*/
